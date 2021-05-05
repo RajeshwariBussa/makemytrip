@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37885" started-at="2021-05-05T17:56:02 IST" finished-at="2021-05-05T17:56:40 IST">
+    <groups>
+    </groups>
+    <test name="MakeMy Trip Funtional Test" duration-ms="37885" started-at="2021-05-05T17:56:02 IST" finished-at="2021-05-05T17:56:40 IST">
+      <class name="com.qa.makemytrip.BusTestNG">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.makemytrip.BusTestNG@4232c52b]" name="setUp" is-config="true" duration-ms="22593" started-at="2021-05-05T17:56:02 IST" finished-at="2021-05-05T17:56:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.makemytrip.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="BusMultipleWindow()[pri:0, instance:com.qa.makemytrip.BusTestNG@4232c52b]" name="BusMultipleWindow" duration-ms="15243" started-at="2021-05-05T17:56:25 IST" finished-at="2021-05-05T17:56:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BusMultipleWindow -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.makemytrip.BusTestNG@4232c52b]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-05-05T17:56:40 IST" finished-at="2021-05-05T17:56:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.makemytrip.BusTestNG -->
+    </test> <!-- MakeMy Trip Funtional Test -->
+  </suite> <!-- Suite -->
+</testng-results>
